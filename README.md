@@ -15,13 +15,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/manikumaradapala/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="manikumaradapala" height="30" width="100" /></a>
-<a href="https://kaggle.com/maniadapala" target="blank"><img align="center" src="https://img.shields.io/badge/k-Kaggle-blue" alt="maniadapala" height="30" width="100" /></a>
-<a href="https://fb.com/manikumar.adapala.7" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="manikumar.adapala.7" height="30" width="100" /></a>
-<a href="https://instagram.com/__.manikumar.__" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="__.manikumar.__" height="30" width="100" /></a> <br> <br>
-<a href="https://www.codechef.com/users/a_m_kumar" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHa1qrCZeWuFg/company-logo_200_200/0/1608567563220?e=2159024400&v=beta&t=cVgrn3CPIe2IuiARGTie_8S040Uz6y5nGieNbNTgUqw" alt="a_m_kumar" height="100" width="100" /></a> &nbsp;
-<a href="https://www.hackerrank.com/manikumaradapala" target="blank"><img align="center" src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/05/22174532/hackerrank-logo.jpg" alt="manikumaradapala" height="100" width="110" /></a> &nbsp; &nbsp;
-<a href="https://auth.geeksforgeeks.org/user/adapalamanikumar/profile" target="blank"><img align="center" src="https://cdn.cybrhome.com/media/website/live/icon/icon_geeksforgeeks.com.jpg" alt="adapalamanikumar/profile" height="100" width="100" /></a>
+<a href="https://www.linkedin.com/in/manikumaradapala/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="manikumaradapala" height="30" width="100" /></a>
+<a href="https://kaggle.com/maniadapala" target="_blank"><img align="center" src="https://img.shields.io/badge/k-Kaggle-blue" alt="maniadapala" height="30" width="100" /></a>
+<a href="https://fb.com/manikumar.adapala.7" target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="manikumar.adapala.7" height="30" width="100" /></a>
+<a href="https://instagram.com/__.manikumar.__" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="__.manikumar.__" height="30" width="100" /></a> <br> <br>
+<a href="https://www.codechef.com/users/a_m_kumar" target="_blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHa1qrCZeWuFg/company-logo_200_200/0/1608567563220?e=2159024400&v=beta&t=cVgrn3CPIe2IuiARGTie_8S040Uz6y5nGieNbNTgUqw" alt="a_m_kumar" height="100" width="100" /></a> &nbsp;
+<a href="https://www.hackerrank.com/manikumaradapala" target="_blank"><img align="center" src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/05/22174532/hackerrank-logo.jpg" alt="manikumaradapala" height="100" width="110" /></a> &nbsp; &nbsp;
+<a href="https://auth.geeksforgeeks.org/user/adapalamanikumar/profile" target="_blank"><img align="center" src="https://cdn.cybrhome.com/media/website/live/icon/icon_geeksforgeeks.com.jpg" alt="adapalamanikumar/profile" height="100" width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
